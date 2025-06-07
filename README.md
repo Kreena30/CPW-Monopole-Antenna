@@ -4,7 +4,6 @@
 
 This repository features the design and analysis of a **coplanar waveguide (CPW)-fed planar monopole antenna** with broadband circular polarization.
 
----
 
 ## 📝 Abstract
 
@@ -15,7 +14,6 @@ A CPW-fed planar monopole antenna is optimized for **broadband operation and cir
 
 The antenna is suitable for RFID readers, and wireless communication networks due to its broad circular polarization and robust performance.
 
----
 
 ## 🧑‍🔬 Brief Theory
 
@@ -23,7 +21,6 @@ The antenna is suitable for RFID readers, and wireless communication networks du
 - **CPW Monopole Antenna:** Utilizes coplanar waveguide transmission lines for feeding, offering broader bandwidth, higher gain, and compact size compared to traditional monopole antennas.
 - **Design Innovations:** Slot modifications (inverted L-shaped, U-shaped, curved, etc.) are employed to overcome the typical limitations of planar antennas, such as narrow bandwidth and low gain.
 
----
 
 ## ⚙️ Design & Simulation
 
@@ -41,7 +38,6 @@ The antenna is suitable for RFID readers, and wireless communication networks du
 - E-Plane and H-Plane Analysis
 - Surface Current Distribution
 
----
 
 ## 🏁 Conclusion
 
@@ -52,7 +48,6 @@ The CPW-fed planar monopole antenna with broadband circular polarization is a co
 
 Its compact and efficient design makes it ideal for applications in wireless networks, RFID, and UWB systems.
 
----
 
 
 ## 🛠️ Tools & Technologies
