@@ -1,11 +1,11 @@
 # Designing and Analysis of CPW fed Planar Monopole Antenna with broadband Circular Polarization
 
-## 📡 Project Overview
+## Project Overview
 
 This repository features the design and analysis of a **coplanar waveguide (CPW)-fed planar monopole antenna** with broadband circular polarization.
 
 
-## 📝 Abstract
+## Abstract
 
 A CPW-fed planar monopole antenna is optimized for **broadband operation and circular polarization** in the WLAN (5 GHz) bands. The design leverages an inverted L-shaped slot in the ground plane and a parallel-aligned inverted-L-shaped strip to achieve a **fractional bandwidth for circular polarization exceeding 33%**. This approach yields:
 - Simple yet efficient radiator design
@@ -15,14 +15,17 @@ A CPW-fed planar monopole antenna is optimized for **broadband operation and cir
 The antenna is suitable for RFID readers, and wireless communication networks due to its broad circular polarization and robust performance.
 
 
-## 🧑‍🔬 Brief Theory
+## Brief Theory
 
 - **Planar Antennas:** Both active and parasitic elements are on a single plane, making them compact and suitable for modern wireless applications.
 - **CPW Monopole Antenna:** Utilizes coplanar waveguide transmission lines for feeding, offering broader bandwidth, higher gain, and compact size compared to traditional monopole antennas.
 - **Design Innovations:** Slot modifications (inverted L-shaped, U-shaped, curved, etc.) are employed to overcome the typical limitations of planar antennas, such as narrow bandwidth and low gain.
 
+## Tools & Technologies
 
-## ⚙️ Design & Simulation
+- **Simulation & Design:** MATLAB, HFSS, CST
+
+##  Design & Simulation
 
 - **Antenna Structure:** Rectangular planar patch with embedded L-shaped slots, CPW-fed.
 - **Key Parameters:** Return loss, gain, axial ratio, and impedance bandwidth.
@@ -39,7 +42,7 @@ The antenna is suitable for RFID readers, and wireless communication networks du
 - Surface Current Distribution
 
 
-## 🏁 Conclusion
+## Conclusion
 
 The CPW-fed planar monopole antenna with broadband circular polarization is a compelling solution for modern wireless communication, offering:
 - High data rates
@@ -48,9 +51,4 @@ The CPW-fed planar monopole antenna with broadband circular polarization is a co
 
 Its compact and efficient design makes it ideal for applications in wireless networks, RFID, and UWB systems.
 
-
-
-## 🛠️ Tools & Technologies
-
-- **Simulation & Design:** MATLAB, HFSS, CST
 
